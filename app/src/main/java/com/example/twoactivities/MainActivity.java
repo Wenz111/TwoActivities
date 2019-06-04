@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
             MainActivity.class.getSimpleName();
 
     public static final String EXTRA_MESSAGE =
-            "com.example.android.twoactivities.extra.MESSAGE";
+            "com.example.twoactivities.extra.MESSAGE";
 
     private EditText mMessageEditText;
 
